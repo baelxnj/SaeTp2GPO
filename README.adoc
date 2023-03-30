@@ -1,5 +1,6 @@
 # SaeTp2GPO Recette de cuisine
 __Membres du groupe :__
+
 - Julie Baelen : cuisto
 - Eliot desportes : plongeur
 
