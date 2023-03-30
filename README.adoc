@@ -12,3 +12,4 @@ __Membres du groupe :__
 |ingrédient |temps de preparation |temps de cuisson
 | patata    |4min                 |6min
 |oignons    |2min                 |3min
+{imagesdir}
