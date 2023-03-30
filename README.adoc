@@ -13,3 +13,4 @@ __Membres du groupe :__
 | patata    |4min                 |6min
 |oignons    |2min                 |3min
 
+image::patata.jpg
