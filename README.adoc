@@ -1,0 +1,13 @@
+# SaeTp2GPO Recette de cuisine
+__Membres du groupe :__
+- Julie Baelen : cuisto
+- Eliot desportes : plongeur
+
+
+== Le repas
+
+[cols="1?2?2?5", options=header]
+|===
+|ingrédient |temps de preparation |temps de cuisson
+| patata    |4min                 |6min
+|oignons    |2min                 |3min
